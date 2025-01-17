@@ -1,0 +1,43 @@
+header{
+    background: url(../img/DxRqwcyX0AAnta8.jpg) no-repeat center/cover;
+    height: 445px;
+}
+
+main img{
+    width: 100%;
+}
+
+main h2{
+    text-align: center;
+    color: #445161;
+    margin-top: 42px;
+}
+
+main p{
+    margin-top: 30px;
+    color: #445161;
+}
+
+header h1{
+    color: white;
+    padding-top: 50px;
+}
+
+section .container h2{
+    color: #445161;
+    margin-top: 100px;
+    text-align: center;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+footer{
+    background: url(../img/Background\ copy.jpg) no-repeat center/cover;
+    margin-top: 70px;
+}
